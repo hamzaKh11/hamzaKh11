@@ -1,4 +1,4 @@
-[![MasterHead](banner.png)]
+![MasterHead](head.png)
 <h1 align="center">Hi there 👋, I'm KHALID Hamza</h1>
 <h3 align="center">A passionate Data Science from Morocco</h3>
 
