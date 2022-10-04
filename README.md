@@ -62,10 +62,12 @@
   
   <dl><dd><dl><dd><dl><dd><dl><dd>
   <details open style="margin-left:20px">
-   <summary>Libraries Python</summary>
+   <summary>Libraries Python</summary> 
+      <img src="https://numpy.org/images/logo.svg" alt="seaborn" width="40" height="40"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>  
+      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://matplotlib.org/_static/images/documentation.svg" alt="seaborn" width="40" height="40"/> 
       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </details>
@@ -91,7 +93,7 @@
   <dl><dd><dl><dd><dl><dd><dl><dd>
   <details open style="margin-left:20px">
     <summary>Databases</summary>
-        &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
         &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
         &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
         &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
