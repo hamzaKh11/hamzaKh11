@@ -101,7 +101,7 @@
   
 <dl><dd><dl><dd><dl><dd><dl><dd>
   <details open style="margin-left:20px">
-    <summary>Databases</summary>
+    <summary>Others</summary>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
         &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
         &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
