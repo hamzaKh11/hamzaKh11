@@ -73,6 +73,13 @@
   </details>
   </dd></dl></dd></dl></dd></dl></dd></dl>
   
+  <dl><dd><dl><dd><dl><dd><dl><dd>
+  <details open style="margin-left:20px">
+   <summary>Data Visualization</summary> 
+      <img src="https://www.mydral.com/wp-content/uploads/2019/02/Tableau-Logo-1.png" alt="seaborn" width="40" height="40"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://logos-marques.com/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="pandas" width="40" height="40"/> 
+  </details>
+  </dd></dl></dd></dl></dd></dl></dd></dl>
   
   <dl><dd><dl><dd><dl><dd><dl><dd>
   <details open style="margin-left:20px">
