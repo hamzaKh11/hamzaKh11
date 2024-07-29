@@ -4,13 +4,13 @@
 
 ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzakh11&label=Profile%20views&color=0e75b6&style=flat" alt="hamzakh11" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning** And **Deep Learning**
+- 🌱 Co-founder of [https://datamaroc.online/](https://datamaroc.online/)
 
 - 👨‍💻 All of my projects are available at [https://hamzakhalid.me/](https://hamzakhalid.me/)
 
 - 📝 I regularly write articles on [https://medium.com/@hamzakhalid2111](https://medium.com/@hamzakhalid2111)
 
-- 💬 Ask me about **Machine Learning** And **Deep Learning**
+- 💬 Ask me about **Data Science** And **Data Engineering**
 
 - 📫 How to reach me **hamzakhalid2111@gmail.com**
 
