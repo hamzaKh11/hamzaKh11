@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm KHALID Hamza</h1>
-<h3 align="center">A passionate Data Science from Morocco</h3>
+<h3 align="center">Master's in Data Science and Decision Support with a passion for data analytics, analysis and visualization, and a strong interest in entrepreneurship and leadership.</h3>
 
 
 ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzakh11&label=Profile%20views&color=0e75b6&style=flat" alt="hamzakh11" /> </p>
